@@ -20,8 +20,6 @@ Aprender los conceptos de los capacitores e inductores.
 
 ![image](https://user-images.githubusercontent.com/117691236/220011335-e5be672e-b2cd-4f50-952a-675576b39bb5.png)
 
-![image](https://user-images.githubusercontent.com/117691236/220011355-a0465a9f-350c-45e8-83ce-0af99e57f972.png)
-
 ![image](https://user-images.githubusercontent.com/117691236/220011406-7766e3b4-5d8c-4fc2-b5eb-ed16501cf433.png)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
@@ -66,7 +64,7 @@ Aprender los conceptos de los capacitores e inductores.
 
 5.Conclusiones
 
-En conclusión, al realizar este informe pude aprender más el uso de capacitores e inductores, ya que con ello aprendí a identificar de mejor manera cómo influye la frecuencia en los cambios de sus valores, entendiendo de mejor manera el uso y lectura de ondas seno. Además de ello fue importante la realización y desarrollo de los ejercicios propuestos en los capitulos para llevar y reforzar los temas tratados en clase de mejor manera.
+En conclusión, por medio de este informe se aprende sobre el uso de capacitores e inductores, ya que, con ello se comprende de mejor manera cómo influye la frecuencia en el cambio de valores, uso y lectura de las ondas seno. Además, de la realización y desarrollo de los ejercicios propuestos en los capitulos para llevar y reforzar los temas tratados en clase.
 
 6.Bibliografía
 
